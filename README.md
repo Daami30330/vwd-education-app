@@ -43,15 +43,11 @@ Children with VWD often struggle to understand why bruising, bleeding, and lifel
 
 ## 📐 Diagrams & Screenshots
 
-📸 **Screenshots (coming soon)**  
-🧭 **UI Flow**  
-![UI Flow Diagram](assets/diagram_ui_flow.png)
-
-📊 **Architecture**  
-![Architecture Diagram](assets/architecture_diagram.png)
-
-🧠 **Quiz Logic**  
-![Quiz Logic Flow](assets/quiz_logic.png)
+📸 **Diagrams and Screenshots**    
+![UI Flow Diagram](assets/DataFlow4.png)
+![UI Flow Diagram](assets/DataFlow3.png)
+![UI Flow Diagram](assets/DataFlow2.png)
+![UI Flow Diagram](assets/DataFlow1.png)
 
 ---
 
